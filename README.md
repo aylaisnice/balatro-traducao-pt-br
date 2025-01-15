@@ -11,3 +11,5 @@ Eu sei que nem todo mundo vai gostar de algumas escolhas que eu fiz, como usar t
 Sugestões e avisos sobre erros podem ser dados aqui em Issues ou no Discord.
 
 Eu não fiz nenhum instalador porque eu não preciso, mas pra instalar é só substituir a tradução oficial dentro do executável por esta, ou criar um symlink da pasta deste git para a pasta de localizations caso você tenha o jogo extraído em uma pasta em vez de EXE, como eu tenho.
+
+A fonte contida aqui é uma versão levemente alterada da versão usada no jogo. A diferença é que ela tem o "Â", que por algum motivo não existe na outra.
