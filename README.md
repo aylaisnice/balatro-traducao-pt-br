@@ -1,4 +1,4 @@
-# Balatro Tradução Brasileira
+# Fã Tradução Brasileira de Balatro
 
 Olá! Esta é a minha tradução pessoal de Balatro para o português brasileiro.
 

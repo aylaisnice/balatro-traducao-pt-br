@@ -334,7 +334,7 @@ return {
                 name = "A Janela",
                 text = {
                     "Todas as cartas de",
-                    "Diamantes estão debuffadas",
+                    "Ouros estão debuffadas",
                 },
             },
         },
