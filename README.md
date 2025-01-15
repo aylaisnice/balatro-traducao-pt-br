@@ -1,0 +1,1 @@
+# balatro-traducao-pt-br
