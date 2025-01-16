@@ -634,7 +634,7 @@ return {
                 name = "Fogueira",
                 text = {
                     "Este Coringa ganha {X:mult,C:white} X#1# {} Mult por",
-                    "carta {C:attention}vendida{}.",
+                    "carta {C:attention}vendida{}",
                     "{s:0.8}Reseta quando uma {C:attention,s:0.8}Boss Blind{0.8} é derrotada",
                     "{C:inactive}(No momento {X:mult,C:white} X#2# {C:inactive} Mult)",
                 },
@@ -1547,7 +1547,7 @@ return {
                 name = "Coringa borrado",
                 text = {
                     "{C:hearts}Copas{} e {C:diamonds}Ouros",
-                    "contam como o mesmo naipe.",
+                    "contam como o mesmo naipe",
                     "{C:spades}Espadas{} e {C:clubs}Paus",
                     "contam como o mesmo naipe",
                 },
@@ -1705,7 +1705,7 @@ return {
                 name = "Lista de afazeres",
                 text = {
                     "Ganhe {C:money}$#1#{} se a {C:attention}mão de pôquer{}",
-                    "jogada é um(a) {C:attention}#2#{}.",
+                    "jogada é um(a) {C:attention}#2#{}",
                     "{s:0.8}Mão de pôquer muda no final da rodada",
                 },
             },
@@ -1795,7 +1795,7 @@ return {
                 name = "Vampiro",
                 text = {
                     "Este Coringa ganha {X:mult,C:white} X#1# {} Mult por",
-                    "{C:attention}carta Aprimorada{} pontuante jogada.",
+                    "{C:attention}carta Aprimorada{} pontuante jogada",
                     "Remove o {C:attention}Aprimoramento{} da carta",
                     "{C:inactive}(No momento {X:mult,C:white} X#2# {C:inactive} Mult)",
                 },
@@ -2389,8 +2389,8 @@ return {
                 name = "Ankh",
                 text = {
                     "Cria uma cópia de um",
-                    "{C:attention}Coringa{} aleatório, destrói",
-                    "todos os outros Coringas",
+                    "{C:attention}Coringa{} aleatório e",
+                    "destrói todos os outros Coringas",
                 },
             },
             c_aura = {
@@ -2435,8 +2435,8 @@ return {
                 name = "Familiar",
                 text = {
                     "Destrói {C:attention}1{} carta",
-                    "aleatória em mão, adiciona",
-                    "{C:attention}#1#{} cartas {C:attention}figuradas Aprimoradas",
+                    "aleatória em mão",
+                    "Adiciona {C:attention}#1#{} cartas {C:attention}figuradas Aprimoradas",
                     "aleatórias para a mão",
                 },
             },
@@ -2444,7 +2444,7 @@ return {
                 name = "Sinistro",
                 text = {
                     "Destrói {C:attention}1{} carta",
-                    "aleatória em mão.",
+                    "aleatória em mão",
                     "Adiciona {C:attention}#1#{} {C:attention}Áses Aprimorados",
                     "aleatórios para a mão",
                 },
@@ -2461,7 +2461,7 @@ return {
                 name = "Imolação",
                 text = {
                     "Destrói {C:attention}#1#{} cartas",
-                    "aleatórias em mão.",
+                    "aleatórias em mão",
                     "Ganhe {C:money}$#2#",
                 },
             },
@@ -2527,7 +2527,7 @@ return {
                 name = "Aparição",
                 text = {
                     "Cria um",
-                    "{C:attention}Coringa{C:red} Raro{} aleatório.",
+                    "{C:attention}Coringa{C:red} Raro{} aleatório",
                     "Seta teu dinheiro para {C:money}$0",
                 },
             },
@@ -2788,7 +2788,7 @@ return {
             c_death = {
                 name = "A Morte",
                 text = {
-                    "Selecione {C:attention}#1#{} cartas.",
+                    "Selecione {C:attention}#1#{} cartas",
                     "Converte a carta à {C:attention}esquerda",
                     "na carta à {C:attention}direita",
                     "{C:inactive}(Arraste para reordenar)",
@@ -2994,7 +2994,7 @@ return {
                 name = "Versão do diretor",
                 text = {
                     "Rerolle a Boss Blind",
-                    "{C:attention}1{} vez por Ante.",
+                    "{C:attention}1{} vez por Ante",
                     "{C:money}$#1#{} por reroll",
                 },
             },
@@ -3229,7 +3229,7 @@ return {
                 name = "Retcon",
                 text = {
                     "Rerolle a Boss Blind",
-                    "por vezes {C:attention}ilimitadas{}.",
+                    "por vezes {C:attention}ilimitadas{}",
                     "{C:money}$#1#{} por reroll",
                 },
                 unlock = {
@@ -3642,7 +3642,7 @@ return {
             k_wins = "Vitórias",
             k_x_base = "X Base",
             ml_bloom_opt = {
-                "Desl.",
+                "Des.",
                 "Lig.",
             },
             ml_buy_and_use_target = {
@@ -3735,7 +3735,7 @@ return {
                 "Sem bordas",
             },
             ph_1_level = "+1 Nível",
-            ph_4_7_of_clubs = "quatro 7s de P aus",
+            ph_4_7_of_clubs = "quatro 7s de Paus",
             ph_alert_debuff_confirm = "Aperte 'Jogar' de novo para confirmar",
             ph_all_poker_hand = "Todas as mãos de pôquer",
             ph_blind_reward = "Recompensa: ",
@@ -3755,7 +3755,7 @@ return {
             ph_game_over = "FIM DE JOGO",
             ph_improve_run = "Melhore sua partida!",
             ph_most_played = "(mão mais jogada)",
-            ph_mr_bones = "Salva pelo Sr. Ossos",
+            ph_mr_bones = "Sr. Ossos te salvou",
             ph_no_boss_active = "sem boss ativo",
             ph_no_vouchers = "Nenhum voucher for resgatado nesta partida",
             ph_score_at_least = "Pontue pelo menos",
