@@ -1697,8 +1697,8 @@ return {
                 name = "Rumo à Lua",
                 text = {
                     "Ganhe {C:money}$#1#{} extra de {C:attention}juros{}",
-                    "para cada {C:money}$5{} que tu",
-                    "tens no final da rodada",
+                    "para cada {C:money}$5{} que tu tens",
+                    "no final da rodada",
                 },
             },
             j_todo_list = {
@@ -3778,8 +3778,8 @@ return {
             ph_up_ante_2 = "Aumentar todas as Blinds",
             ph_up_ante_3 = "Atualizar Blinds",
             ph_vouchers_redeemed = "Vouchers adquiridos nesta partida",
-            ph_you_win = "TU VENCESTE!",
-            ph_you_win_demo = "TU VENCESTE A DEMO!",
+            ph_you_win = "VOCÊ VENCEU!",
+            ph_you_win_demo = "VOCÊ VENCEU A DEMO!",
         },
         high_scores = {
             boss_streak = "Mais quantidade bosses seguidos",
@@ -4241,7 +4241,7 @@ return {
                 "Permanente aumenta preços por {C:money}$1{} à cada compra",
             },
             ch_c_minus_hand_size_per_X_dollar = {
-                "Segure {C:red}-1{} cartas em mão por {C:money}$#1#{} que tu tens",
+                "Segure {C:red}-1{} carta em mão por {C:money}$#1#{} que tu tens",
             },
             ch_c_no_extra_hand_money = {
                 "{C:blue}Mãos{} extras não dão dinheiro",
