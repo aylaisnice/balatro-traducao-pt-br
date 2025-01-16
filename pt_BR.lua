@@ -116,7 +116,7 @@ return {
                 name = "Baralho amarelo",
                 text = {
                     "Comece com",
-                    "{C:money}$#1#{} extra",
+                    "{C:money}$#1#{} extras",
                 },
             },
             b_zodiac = {
@@ -1178,9 +1178,9 @@ return {
             j_mail = {
                 name = "Desconto por correio",
                 text = {
-                    "Ganhe {C:money}$#1#{} para cada",
-                    "{C:attention}#2#{} descartado. Ranque",
-                    "muda toda rodada",
+                    "Ganhe {C:money}$#1#{} por",
+                    "{C:attention}#2#{} descartado(a)",
+                    "{s:0.8}Ranque muda toda rodada",
                 },
             },
             j_marble = {
@@ -3256,7 +3256,7 @@ return {
             v_tarot_tycoon = {
                 name = "Magnata do Tarot",
                 text = {
-                    "Cartas de {C:tarot}Tarot} aparecem",
+                    "Cartas de {C:tarot}Tarot{} aparecem",
                     "{C:attention}#1#X{} mais frequentemente",
                     "na loja",
                 },
@@ -3510,7 +3510,7 @@ return {
             b_stat_spectrals = "Espectrais",
             b_stat_tarots = "Tarots",
             b_stat_vouchers = "Vouchers",
-            b_stats = "Estat.",
+            b_stats = "Estatísticas",
             b_tags = "Tags",
             b_tarot_cards = "Cartas de Tarot",
             b_unlock_all = "Desbloquear tudo",
@@ -4265,7 +4265,7 @@ return {
                 "Quando o Boss da Ante {C:attention}#1#{} é derrotado, todos os Coringas se tornam {C:attention}eternos",
             },
             ch_c_set_joker_slots_ante = {
-                "Quando o Boss da Ante {C:attention}#1#{} é derrotado, sete os Espaços de Coringa para {C:attention}0",
+                "Quando o Boss da Ante {C:attention}#1#{} é derrotado, defina o número de Espaços de Coringa como {C:attention}0",
             },
             ch_c_set_seed = {
                 "1 tentativa com esta Seed: {C:inactive}{Hidden}",
