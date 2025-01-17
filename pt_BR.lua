@@ -180,7 +180,7 @@ return {
                 name = "Coração Carmesim",
                 text = {
                     "Um Coringa aleatório é",
-                    "disabilitado por mão",
+                    "desabilitado por mão",
                 },
             },
             bl_final_leaf = {
@@ -1670,7 +1670,7 @@ return {
                 },
             },
             j_throwback = {
-                name = "Tão Retrô",
+                name = "Tão retrô",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult para cada",
                     "{C:attention}Blind{} pulada nesta partida",
@@ -3615,8 +3615,8 @@ return {
             k_reset = "Resetar",
             k_reward = "Recompensa",
             k_round = "Rodada",
-            k_safe_ex = "Seguro!",
-            k_saved_ex = "Salvo!",
+            k_safe_ex = "Segura!",
+            k_saved_ex = "Salva!",
             k_seed = "Seed",
             k_seeded_run = "Partida com seed",
             k_skipped_cap = "PULADA",
