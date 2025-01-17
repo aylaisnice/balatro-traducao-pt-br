@@ -1976,7 +1976,7 @@ return {
                 text = {
                     "Este Coringa foi usado",
                     "para vencer na dificuldade de",
-                    "{C:attention}Aposta de Ouro",
+                    "{C:attention}Aposta Dourada",
                 },
             },
             green_sticker = {
@@ -3300,12 +3300,12 @@ return {
             cartomancy = "Descubra todas as cartas de Tarot",
             clairvoyance = "Descubra todas as cartas Espectrais",
             completionist = "Descubra 100% da tua coleção",
-            completionist_plus = "Vença com todos os baralhos na Aposta de Ouro",
+            completionist_plus = "Vença com todos os baralhos na Aposta Dourada",
             completionist_plus_plus = "Consiga um Selo de Ouro em todos os Coringas",
             extreme_couponer = "Descubra todos os Vouchers",
             flushed = "Jogue um Flush com 5 Cartas Versáteis",
             heads_up = "Vença uma partida",
-            high_stakes = "Vença uma partida na Aposta de Ouro",
+            high_stakes = "Vença uma partida na Aposta Dourada",
             legendary = "Ache um Coringa Lendário",
             low_stakes = "Vença uma partida no mínimo na Aposta Vermelho",
             mid_stakes = "Vença uma partida no mínimo na Aposta Preto",
