@@ -3634,7 +3634,7 @@ return {
             k_undisovered = "Não descoberto",
             k_unknown = "?????",
             k_unlocked_ex = "Desbloquado!",
-            k_upgrade_ex = "Melhorar!",
+            k_upgrade_ex = "Melhorou!",
             k_val_up = "Valor subiu!",
             k_view = "Ver",
             k_voucher = "Voucher",
