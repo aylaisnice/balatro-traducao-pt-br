@@ -1858,7 +1858,7 @@ return {
         },
         Other = {
             black_sticker = {
-                name = "Adesivo Preto",
+                name = "Adesivo preto",
                 text = {
                     "Este Coringa foi usado",
                     "para vencer na dificuldade de",
@@ -1866,7 +1866,7 @@ return {
                 },
             },
             blue_seal = {
-                name = "Selo Azul",
+                name = "Selo azul",
                 text = {
                     "Cria a carta de {C:planet}Planeta{}",
                     "para a última {C:attention}mão de pôquer{} jogada",
@@ -1875,7 +1875,7 @@ return {
                 },
             },
             blue_sticker = {
-                name = "Adesivo Azul",
+                name = "Adesivo azul",
                 text = {
                     "Este Coringa foi usado",
                     "para vencer na dificuldade de",
