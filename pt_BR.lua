@@ -60,7 +60,7 @@ return {
                 text = {
                     "Cartas {C:spectral}espectrais{} podem",
                     "aparecer na loja",
-                    "Comece com uma {C:spectral,T:c_hex}Maldição",
+                    "Comece com uma {C:spectral,T:c_hex}Malefício",
                 },
             },
             b_green = {
@@ -2450,7 +2450,7 @@ return {
                 },
             },
             c_hex = {
-                name = "Maldição",
+                name = "Malefício",
                 text = {
                     "Adiciona {C:dark_edition}Policromado{} à um",
                     "{C:attention}Coringa{} aleatório, destrua",
