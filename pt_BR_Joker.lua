@@ -1596,7 +1596,7 @@ return {
                     "Este Joker ganha {C:chips}+#2#{} Fichas se",
                     "a mão jogada",
                     "contém exatamente {C:attention}4{} cartas",
-                    "{C:inactive}(No momento {C:chips}#1#{C:inactive} Fichas)",
+                    "{C:inactive}(No momento {C:chips}+#1#{C:inactive} Fichas)",
                 },
             },
             j_steel_joker = {
