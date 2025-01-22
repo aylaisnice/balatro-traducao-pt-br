@@ -3771,7 +3771,7 @@ return {
             ph_select_challenge = "Selecione um desafio",
             ph_sneak_peek = "Espiada",
             ph_stat_consumable = "Número de vezes que esta carta foi usada",
-            ph_stat_joker = "Total de rodadas completadas com esta carta",
+            ph_stat_joker = "Total de rodadas completas com esta carta",
             ph_stat_voucher = "Número de vezes que este Voucher foi resgatado",
             ph_unscored_hand = "Mão não vai pontuar",
             ph_up_ante_1 = "Subir a Ante",
