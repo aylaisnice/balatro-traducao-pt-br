@@ -2453,7 +2453,7 @@ return {
                 name = "Malefício",
                 text = {
                     "Adiciona {C:dark_edition}Policromado{} à um",
-                    "{C:attention}Joker{} aleatório, destrua",
+                    "{C:attention}Joker{} aleatório e destrói",
                     "todos os outros Jokers",
                 },
             },
