@@ -916,7 +916,7 @@ return {
                 name = "Vaso de flor",
                 text = {
                     "{X:mult,C:white} X#1# {} Mult se",
-                    "a mão jogada contém",
+                    "a mão de pôquer jogada contém",
                     "uma carta de {C:diamonds}Ouros{}, uma de {C:clubs}Paus{},",
                     "uma de {C:hearts}Copas{} e uma de {C:spades}Espadas{}",
                 },
@@ -1656,7 +1656,7 @@ return {
                 },
             },
             j_swashbuckler = {
-                name = "Espadachim",
+                name = "Corsário",
                 text = {
                     "Adiciona o valor de venda",
                     "de todos os outros {C:attention}Jokers",

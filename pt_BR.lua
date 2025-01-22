@@ -1656,7 +1656,7 @@ return {
                 },
             },
             j_swashbuckler = {
-                name = "Espadachim",
+                name = "Corsário",
                 text = {
                     "Adiciona o valor de venda",
                     "de todos os outros {C:attention}Coringas",
