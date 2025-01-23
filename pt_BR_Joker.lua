@@ -4153,9 +4153,9 @@ return {
             },
             sh_1 = {
                 "Quando você conseguir mais cartas,",
-                "lembre que você pode reorganizá-las",
+                "lembre que você pode reorganizá-las.",
                 "{C:attention}Jokers{} ativam da",
-                "esquerda para a direita",
+                "esquerda para a direita.",
             },
             sh_2 = {
                 "E tenha certeza que você",
