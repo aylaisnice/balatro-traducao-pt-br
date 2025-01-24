@@ -469,7 +469,7 @@ return {
             j_ancient = {
                 name = "Joker ancestral",
                 text = {
-                    "Cartas jogadas de {V:1}#2#{} dão",
+                    "Cartas de {V:1}#2#{} jogadas dão",
                     "{X:mult,C:white} X#1# {} Mult ao pontuar",
                     "{s:0.8}Naipe muda no final da rodada",
                 },
@@ -477,7 +477,7 @@ return {
             j_arrowhead = {
                 name = "Ponta de flecha",
                 text = {
-                    "Cartas jogadas de {C:spades}Espadas{}",
+                    "Cartas de {C:spades}Espadas{} jogadas",
                     "dão {C:chips}+#1#{} Fichas ao pontuar",
                 },
                 unlock = {
@@ -531,7 +531,7 @@ return {
             j_bloodstone = {
                 name = "Pedra de sangue",
                 text = {
-                    "Cartas jogadas de {C:hearts}Copas{} têm",
+                    "Cartas de {C:hearts}Copas{} jogadas têm",
                     "uma chance de {C:green}#1# em #2#{} de dar",
                     "{X:mult,C:white} X#3# {} Mult ao pontuar",
                 },
@@ -614,7 +614,7 @@ return {
             j_business = {
                 name = "Cartão de visita",
                 text = {
-                    "Cartas jogadas {C:attention}figuradas{} têm",
+                    "Cartas {C:attention}figuradas{} jogadas têm",
                     "uma chance de {C:green}#1# em #2#{} de",
                     "dar {C:money}$2{} ao pontuar",
                 },
@@ -868,8 +868,8 @@ return {
             j_even_steven = {
                 name = "Omar Par",
                 text = {
-                    "Cartas jogadas de",
-                    "ranque {C:attention}par{} dão",
+                    "Cartas de ranque {C:attention}par{}",
+                    "jogadas dão",
                     "{C:mult}+#1#{} Mult ao pontuar",
                     "{C:inactive}(10, 8, 6, 4, 2)",
                 },
@@ -1273,8 +1273,8 @@ return {
             j_odd_todd = {
                 name = "Imar Ímpar",
                 text = {
-                    "Cartas jogadas de",
-                    "ranque {C:attention}ímpar{} dão",
+                    "Cartas de ranque {C:attention}ímpar{}",
+                    "jogadas dão",
                     "{C:chips}+#1#{} Fichas ao pontuar",
                     "{C:inactive}(A, 9, 7, 5, 3)",
                 },
@@ -1282,7 +1282,7 @@ return {
             j_onyx_agate = {
                 name = "Ágata ônix",
                 text = {
-                    "Cartas jogadas de {C:clubs}Paus{}",
+                    "Cartas de {C:clubs}Paus{} jogadas",
                     "dão {C:mult}+#1#{} Mult ao pontuar",
                 },
                 unlock = {
@@ -1426,7 +1426,7 @@ return {
             j_rough_gem = {
                 name = "Gema bruta",
                 text = {
-                    "Cartas jogadas de {C:diamonds}Ouros",
+                    "Cartas de {C:diamonds}Ouros{} jogadas",
                     "dão {C:money}$#1#{} ao pontuar",
                 },
                 unlock = {
