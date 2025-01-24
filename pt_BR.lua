@@ -3248,7 +3248,7 @@ return {
             v_tarot_merchant = {
                 name = "Comerciante de Tarot",
                 text = {
-                    "Cartas de {C:tarot}Tarot} aparecem",
+                    "Cartas de {C:tarot}Tarot{} aparecem",
                     "{C:attention}#1#X{} mais frequentemente",
                     "na loja",
                 },
