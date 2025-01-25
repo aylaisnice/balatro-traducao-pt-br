@@ -3831,7 +3831,7 @@ return {
             },
             ["Four of a Kind"] = {
                 "4 cartas do mesmo ranque. Pode ser",
-                "jogado com 1 carta não pontuante",
+                "jogada com 1 carta não pontuante",
             },
             ["Full House"] = {
                 "Um Trinca e um Par",
@@ -3857,7 +3857,7 @@ return {
             },
             ["Three of a Kind"] = {
                 "3 cartas do mesmo ranque. Pode ser",
-                "jogado com 2 cartas não pontuantes",
+                "jogada com 2 cartas não pontuantes",
             },
             ["Two Pair"] = {
                 "2 pares de cartas. Pode ser",
