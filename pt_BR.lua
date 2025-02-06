@@ -3612,7 +3612,7 @@ return {
             k_rare = "Raro",
             k_redeemed_ex = "Resgatado!",
             k_reroll = "Reroll",
-            k_reset = "Resetar",
+            k_reset = "Resetou",
             k_reward = "Recompensa",
             k_round = "Rodada",
             k_safe_ex = "Segura!",
